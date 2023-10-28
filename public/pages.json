@@ -1,0 +1,25 @@
+[
+    {
+    "link": { "text": "Home", "url": "index.html" },
+    "pageTitle": "there is nothing to Home",
+    "content": "just f*",
+    "sidebarContent":"jjjjj",
+    "published": true
+  },
+  {
+    "link": { "text": "About", "url": "About.html" },
+    "pageTitle": "there is nothing to About",
+    "content": "just f*",
+    "sidebarContent":"jjjjj",
+    "published": true
+
+  },
+  {
+    "link": { "text": "Contact", "url": "Contact.html" },
+    "pageTitle": "there is nothing to Contact",
+    "content": "just f*",
+    "sidebarContent":"jjjjj",
+    "published": false
+
+  }
+]
